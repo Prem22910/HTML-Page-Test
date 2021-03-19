@@ -1,0 +1,29 @@
+body {
+    background-image: url("background Image.png");}
+  h1 {
+    font-size: 50px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 2vw;
+    padding-bottom: 2vw;}
+  h2 {
+    color: white;
+    font-size: xx-large;  
+    text-align: center;} 
+  div {
+    font-size: large; 
+    color: whitesmoke;
+    text-align: center;}
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 4vw;}
+  a {
+    font-style: italic;
+    font-size: large;
+    color: rgb(228, 68, 68);
+    border-style: solid;
+    border-color: wheat;
+    padding: 5px;}
